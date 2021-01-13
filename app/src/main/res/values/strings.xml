@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Appnime</string>
+    <string name="apply">Aplicar</string>
+    <string name="time">%d min ° Bogota</string>
+</resources>
